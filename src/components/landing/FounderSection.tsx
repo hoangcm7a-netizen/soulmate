@@ -8,7 +8,7 @@ const founders = [
     class: "Lớp Dược K13A – Trường CĐ Y tế Thanh Hóa",
     skills: "Lãnh đạo, lập kế hoạch, điều phối",
     goal: "Phát triển dịch vụ chăm sóc sức khỏe mới",
-    image: "/founders/phuong-anh.jpg" // Đặt ảnh vào public/founders/
+    image: "/founders/phuong-anh.jpg"
   },
   {
     name: "Trương Thị Huyền",
@@ -27,9 +27,9 @@ const founders = [
     image: "/founders/thanh.jpg"
   },
   {
-    name: "Nguyễn Thị Hà My",
+    name: "Nguyễn Thị Thu Nga",
     role: "Phụ trách Kỹ thuật & Media",
-    class: "Lớp Y sĩ K2B – Trường CĐ Y tế Thanh Hóa",
+    class: "Lớp Dược K13A – Trường CĐ Y tế Thanh Hóa",
     skills: "Giao tiếp, quay và chỉnh sửa video",
     goal: "Mang đến trải nghiệm tuyệt vời cho khách hàng",
     image: "/founders/ha-my.jpg"
